@@ -1,5 +1,3 @@
----
-
 # README
 
 ## Networking
@@ -161,5 +159,3 @@
 
 ### 10. Append Line After Fifth Line Using SED
 - **Description**: SED command to append a line of text after the fifth line of a file.
-
---- 
